@@ -38,7 +38,7 @@ This framework is built upon **PMP®** project governance and **Lean Six Sigma**
 
 # Product Lifecycle & Governance Framework
 
-📊 **[View Technical TPM Process Flow (tpm process flow.md)](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance/blob/main/tpm%20process%20flow.md)**
+📊 **[View Technical TPM Process Flow (tpm process flow.md)]([https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance/blob/main/tpm%20process%20flow.md](https://github.com/Hasan-Farooqui-ERP/Product-Lifecycle-Governance/blob/main/tpm-process-flow.md))**
 ```mermaid
 graph TD
     T1[Tier 1: Enterprise/Company] --> T2[Tier 2: Manufacturing Site / Plant]
