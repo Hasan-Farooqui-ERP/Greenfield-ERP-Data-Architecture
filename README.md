@@ -45,7 +45,3 @@ The logic was maintained and governed using a strict technical pipeline:
 
 ## 📜 Certifications & Standards
 This architecture follows **PMP®** governance standards and **Lean Six Sigma** principles to minimize data redundancy and maximize system reliability.
-
-# Greenfield ERP Data Architecture & Observability Framework
-
-> 📊 **[View Technical Data Hierarchy Logic (hierarchy-logic.md)](https://github.com/Hasan-Farooqui-ERP/Greenfield-ERP-Data-Architecture/blob/main/hierarchy-logic.md)**
